@@ -1,0 +1,11 @@
+*.d
+*.o
+correctoutput.txt
+input.txt
+main
+makefile
+output.txt
+test.sh
+result.txt
+.tags
+Makefile

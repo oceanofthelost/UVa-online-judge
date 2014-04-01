@@ -1,0 +1,32 @@
+1
+30
+p x
+l k
+r o
+l e
+n l
+p m
+p a
+f q
+k w
+o h
+k p
+c m
+q o
+n h
+n w
+u k
+w e
+s h
+m q
+b g
+u b
+c q
+j l
+i j
+s v
+m w
+k d
+t q
+x b
+x i
