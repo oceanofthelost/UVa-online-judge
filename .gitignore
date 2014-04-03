@@ -1,11 +1,8 @@
 *.d
 *.o
-correctoutput.txt
-input.txt
+*.txt
 main
 makefile
-output.txt
 test.sh
-result.txt
 .tags
 Makefile
